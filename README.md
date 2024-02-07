@@ -17,7 +17,7 @@ List of features that are implemented in the simulation. For example:
 - Animals can move and search for food and mates.
 - Plants grow and reproduce.
 - Animals have neural networks that influence their behavior.
-- Sexual and Asexual reproduction
+- Sexual and asexual reproduction.
 
 ## Contributing
 
@@ -26,4 +26,4 @@ You can then submit a pull request with your changes for review.
 
 ## Authors
 
-This program was created by Jeremy Moser, based on ideas of the coding traing, the bibites and many more.
+This program was created by Jeremy Moser, based on ideas of the coding training, the bibites and many more.
